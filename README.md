@@ -5,11 +5,11 @@ No-code Wix e-commerce website for a modern home decor store.
 
 ## Student Information
 
- **Student Name:** AbdElrhman Ahmed Hamed
- **Registration Number:** 24363/2024
- **Course:** E-Commerce and Web Application
- **Project Type:** No-Code E-Commerce Application Design Project
- **Platform Used:** Wix
+* **Student Name:** AbdElrhman Ahmed Hamed
+* **Registration Number:** 24363/2024
+* **Course:** E-Commerce and Web Application
+* **Project Type:** No-Code E-Commerce Application Design Project
+* **Platform Used:** Wix
 
 ## Project Title
 
@@ -97,7 +97,6 @@ Through this project, I learned how to create an e-commerce website using Wix wi
 
 ## Live Website Link
 
-Paste your Wix live website link here:
 
 **Live Website:** [https://your-wix-website-link-here](https://abodykhalid805.wixsite.com/home-decor-hub)
 
