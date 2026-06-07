@@ -102,9 +102,9 @@ Through this project, I learned how to create an e-commerce website using Wix wi
 
 ## GitHub Repository Link
 
-[Paste your GitHub repository link here:](https://github.com/abdelrhman-hamed7/urban-touch/tree/main)
 
-**GitHub Repository:** https://github.com/your-username/urban-touch
+
+**GitHub Repository:** [https://github.com/your-username/urban-touch](https://github.com/abdelrhman-hamed7/urban-touch/tree/main)
 
 ## Conclusion
 
